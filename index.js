@@ -1,4 +1,4 @@
-'use strict';
+
 
 function theBeatlesPlay(players, instruments) {
     var allPlayers = [];
